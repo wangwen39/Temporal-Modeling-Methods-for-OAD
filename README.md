@@ -1,5 +1,5 @@
 # Temporal-Modeling-Methods-for-OAD
-This is the code of our paper, "A Comprehensive Study on Temporal Modeling for Online Action Detection" \\
+This is the code of our paper, "A Comprehensive Study on Temporal Modeling for Online Action Detection"      
 Codes will be avaliable soon.
 ![framework](https://github.com/wangwen39/Temporal-Modeling-Methods-for-OAD/blob/master/framework.png)
 ## Abstract
