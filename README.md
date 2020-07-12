@@ -7,7 +7,7 @@ Online action detection (OAD) is a practical yet challenging task, which has att
 ## Reference
 @article{Wang2020ACS,  
   title={A Comprehensive Study on Temporal Modeling for Online Action Detection},  
-  author={Wiley Wang and Xiaojiang Peng and Yu Qiao and Jian Cheng},   
+  author={Wen Wang and Xiaojiang Peng and Yu Qiao and Jian Cheng},   
   journal={ArXiv},   
   year={2020},   
   volume={abs/2001.07501}   
