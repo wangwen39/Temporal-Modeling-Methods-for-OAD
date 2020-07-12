@@ -29,6 +29,8 @@ class model(nn.Module):
         c0 = torch.zeros(self.num_layers, input_tensor.size(0), self.hidden_size).cuda()
 
         output_tensor, hidden_state = self.lstm(input_tensor, (h0, c0)) 
+        # avg_out = self.avgpool(output_tensor.transpose(2, 1))
+        # prob = self.classifier(avg_out.squeeze(2))
 
         prob = self.classifier(output_tensor[:, -1, :])
 
