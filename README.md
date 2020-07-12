@@ -8,10 +8,10 @@ Online action detection (OAD) is a practical yet challenging task, which has att
 * This code is developed with Pytorch-1.2.0, Python3.7.4
 ## Citation
 If you are using the model provided here in in your research, please considering citing:  
-    @article{Wang2020ACS,  
-      title={A Comprehensive Study on Temporal Modeling for Online Action Detection},  
-      author={Wen Wang and Xiaojiang Peng and Yu Qiao and Jian Cheng},   
-      journal={ArXiv},   
-      year={2020},   
-      volume={abs/2001.07501}   
-    }
+  [Tab]  @article{Wang2020ACS,  
+    [Tab]   title={A Comprehensive Study on Temporal Modeling for Online Action Detection},  
+     [Tab]  author={Wen Wang and Xiaojiang Peng and Yu Qiao and Jian Cheng},   
+  [Tab]     journal={ArXiv},   
+    [Tab]   year={2020},   
+    [Tab]   volume={abs/2001.07501}   
+   [Tab]  }
